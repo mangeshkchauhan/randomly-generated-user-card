@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/randomly-generated-user-card/static/css/main.327f2a10.css",
+    "main.js": "/randomly-generated-user-card/static/js/main.af146714.js",
+    "index.html": "/randomly-generated-user-card/index.html",
+    "main.327f2a10.css.map": "/randomly-generated-user-card/static/css/main.327f2a10.css.map",
+    "main.af146714.js.map": "/randomly-generated-user-card/static/js/main.af146714.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.327f2a10.css",
+    "static/js/main.af146714.js"
+  ]
+}
